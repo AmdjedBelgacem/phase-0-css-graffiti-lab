@@ -1,1 +1,14 @@
-/* write your override styles here */
+#wall .tag-1 {
+    background: url(https://www.seekpng.com/png/full/113-1131637_music-graffiti-png-graffiti-art-png.png) no-repeat;
+    z-index: 7;
+    display: block;
+    margin: 70px 150px;
+}
+
+#wall #tag-2 {
+    background: url(https://www.graffiti-empire.com/wp-content/themes/gc/assets/images/graffiti-generator/graffiti-font-abc-bubble-style-2.png) no-repeat !important; 
+    z-index: 6;
+    display: block;
+    left: 60%;
+    top: 65%;
+  }
